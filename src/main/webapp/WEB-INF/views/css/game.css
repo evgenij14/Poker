@@ -1,0 +1,258 @@
+body {
+    font-family: "Arial Narrow", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.clearfix {
+    content: '';
+    display: table;
+    width: 100%;
+    clear: both;
+}
+
+button {
+    display: block;
+    box-sizing: border-box;
+    background: rgba(255, 255, 255, 0.5);
+    color: black;
+    text-decoration: none;
+    border-radius: 4px;
+    letter-spacing: 1px;
+    transition: all 0.3s ease-out;
+}
+
+img {
+    width: 104px;
+    height: 142px;
+}
+
+p {
+    color: lightyellow;
+}
+
+.back {
+    background: url(https://cdn.dribbble.com/users/568/screenshots/261479/attachments/65025/American-Express-Wallpaper-27in-imac.png) no-repeat center top / cover;
+    height: 100vh;
+    padding: 5px 15px;
+    box-sizing: border-box;
+}
+
+.opponent {
+    padding-bottom: 40px;
+    margin-top: 7px;
+}
+
+.money {
+    display: block;
+    float: left;
+    font-size: 25px;
+    margin-left: 370px;
+    margin-top: 30px;
+}
+
+.opponent_card {
+    margin-left: 80px;
+    float: left;
+
+}
+
+.opponent_card img {
+    margin-bottom: 3px;
+}
+
+.opponent_info {
+    float: right;
+    margin-right: 40px;
+
+}
+
+.opponent_info p {
+    font-size: 20px;
+    font-weight: bold
+}
+
+.rate1 {
+    margin-top: 70px;
+    font-size: 25px;
+    margin-left: 615px;
+    height: 27px;
+    width: 100px;
+    text-align: center;
+}
+
+.rate1 p {
+    color: #0b00e8;
+    font-weight: bold
+}
+
+.cards {
+    margin-top: 15px;
+}
+
+.cards img {
+    float: left;
+    margin-left: 25px;
+}
+
+.on_table {
+    float: left;
+    margin-left: 10px;
+}
+
+.bank {
+    float: right;
+    padding: 0;
+    margin-right: 20px;
+}
+
+.bank_money {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.bank img {
+    height: 136px;
+    width: 204px;
+    margin: 0;
+}
+
+.rate2 {
+    margin-top: 30px;
+    font-size: 25px;
+    margin-left: 615px;
+    height: 27px;
+    width: 100px;
+    text-align: center;
+}
+
+.rate2 p {
+    font-weight: bold;
+    color: #0b00e8;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.buttons {
+    width: 800px;
+    padding-left: 450px;
+    padding-top: 7px;
+    margin-top: 10px;
+}
+
+.buttons form {
+    float: left;
+    margin-left: 40px;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+.chip {
+    float: right;
+
+}
+
+.chip img {
+    height: 114px;
+    width: 84px;
+    margin: 0 auto;
+
+}
+
+.chip button {
+    margin: 0 auto;
+    width: 60px;
+    height: 15px;
+    font-size: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.rate {
+    float: right;
+    margin-right: 25px;
+}
+
+.me {
+    width: 1250px;
+    margin-top: 20px;
+}
+
+.me_info {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    width: 150px;
+
+}
+
+.me_card {
+    float: left;
+    margin-left: 80px;
+}
+
+.me_money {
+    float: left;
+    margin-left: 215px;
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+.low_rate {
+    margin-top: 0;
+    width: 800px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 500px;
+}
+
+.low_rate p {
+    margin: 0;
+    color: black;
+}
+
+.win {
+    margin-top: 0;
+    width: 800px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 500px;
+}
+
+.win p {
+    margin-top: 0;
+    float: left;
+    color: black;
+}
+
+.win button {
+    margin-top: 0;
+    float: left;
+    margin-left: 40px;
+}
+
+.lose {
+    margin-top: 0;
+    width: 800px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 550px;
+}
+
+.lose p {
+    margin-top: 0;
+    float: left;
+    color: black;
+}
+
+.lose button {
+    margin-top: 0;
+    float: left;
+    margin-left: 40px;
+}

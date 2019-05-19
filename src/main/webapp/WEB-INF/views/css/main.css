@@ -1,0 +1,161 @@
+body {
+    font-family: "Arial Narrow", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.clearfix {
+    content: '';
+    display: table;
+    width: 100%;
+    clear: both;
+}
+
+.back {
+    background: url(http://poker1.ru/wp-content/uploads/poker-azart.jpg) no-repeat center top / cover;
+    height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.header {
+}
+
+.header h1 {
+    display: block;
+    color: white;
+    font-size: 25px;
+    margin-left: 50px;
+    float: left;
+
+}
+
+.logout {
+    float: right;
+}
+
+.logout button {
+    width: 80px;
+    text-transform: uppercase;
+    height: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.info {
+    width: 250px;
+    margin-left: 30px;
+    margin-top: 0;
+}
+
+.info p {
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+
+.tables {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+img {
+    width: 180px;
+    height: 101px;
+}
+
+.play {
+    margin-top: 10px;
+}
+
+.play button {
+    width: 75px;
+    height: 25px;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-left: 50px;
+    margin-bottom: 0;
+}
+
+.table1 {
+    margin-left: 150px;
+    float: left;
+    width: 182px;
+    margin-bottom: 0;
+}
+
+.table1 h2 {
+    text-align: center;
+    color: lightyellow;
+}
+
+.cost1 {
+    font-size: 18px;
+    text-align: center;
+    color: lightyellow;
+    margin-bottom: 5px;
+}
+
+.queue1 {
+    font-size: 18px;
+    text-align: center;
+    color: lightyellow;
+    margin-bottom: 5px;
+}
+
+.table2 {
+    float: left;
+    width: 182px;
+    margin-left: 220px;
+    margin-bottom: 0px;
+}
+
+.table2 h2 {
+    text-align: center;
+    color: lightyellow;
+}
+
+.cost2 {
+    font-size: 18px;
+    text-align: center;
+    color: lightyellow;
+    margin-bottom: 5px;
+}
+
+.queue2 {
+    text-align: center;
+    color: lightyellow;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.table3 {
+    float: right;
+    width: 182px;
+    margin-right: 150px;
+    margin-bottom: 0;
+}
+
+.table3 h2 {
+    text-align: center;
+    color: lightyellow;
+}
+
+.cost3 {
+    font-size: 18px;
+    text-align: center;
+    color: lightyellow;
+    margin-bottom: 5px;
+}
+
+.queue3 {
+    font-size: 18px;
+    text-align: center;
+    color: lightyellow;
+    margin-bottom: 5px;
+}
+
+.money {
+    font-weight: bold;
+}

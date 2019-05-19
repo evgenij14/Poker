@@ -1,0 +1,24 @@
+.back {
+    background: url(https://www.gannett-cdn.com/-mm-/3a2ad48f7e0ecb285eb86039477a97614a840b21/c=0-230-4606-2821/local/-/media/2016/10/14/Visalia/B9324277738Z.1_20161014232113_000_GGQG26M8N.1-0.jpg?width=3200&height=1680&fit=crop) no-repeat center top / cover;
+    height: 100vh;
+    padding-top: 65px;
+    padding-left: 390px;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.tx h1 {
+    font-size: 60px;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.pic {
+    opacity: 0.95;
+    margin-top: 25px;
+    margin-left: 170px;
+}

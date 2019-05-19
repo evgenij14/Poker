@@ -1,0 +1,58 @@
+body {
+    font-family: "Arial Narrow", sans-serif ;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.back {
+    background: url(https://i.pinimg.com/originals/74/c4/4a/74c44a4ab96bd3b57eb210385f077616.jpg) no-repeat center top / cover;
+    height: 100vh;
+    box-sizing: border-box;
+    padding-right: 10px;
+}
+.main {
+    margin-top: 50px;
+    margin-right: 15px;
+    height: 200px;
+    float: left;
+    width: 250px;
+}
+h2 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    color: lightyellow;
+    padding-left: 30px;
+}
+.main input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: lightyellow;
+    width: 200px;
+    height: 20px;
+    margin-left: 12px;
+    background-color: black;
+}
+button {
+    height: 30px;
+    font-size: 20px;
+    width: 200px;
+    color: black;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 11px;
+}
+.login {
+margin-left: 19px;
+}
+.name {
+    margin-left: 17px;
+}
+.email {
+    margin-left: 16px;
+}
+h3 {
+    font-size: 15px;
+    color: red;
+    padding-left: 30px;
+}

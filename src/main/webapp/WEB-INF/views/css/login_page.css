@@ -1,0 +1,76 @@
+body {
+    font-family: "Arial Narrow", sans-serif;
+    padding: 0;
+    margin: 0;
+    background: antiquewhite;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+.action h2 {
+    height: 20px;
+    color: #00abed;
+    margin-left: 52px;
+}
+
+.action h1 {
+    font-size: 55px;
+    color: #00abed;
+    margin-left: 100px;
+}
+
+.action {
+    width: 400px;
+    height: 300px;
+    opacity: 0.9;
+    color: #00ffe5;
+    margin-top: 140px;
+    margin-left: 515px;
+
+}
+
+input {
+    height: 30px;
+    align-items: center;
+    font-size: 25px;
+}
+
+button {
+    margin-top: 8px;
+    height: 30px;
+    width: 200px;
+    margin-left: 60px;
+    font-size: 25px;
+    text-transform: uppercase;
+    color: #00d1d1;
+}
+
+.registration {
+    height: 30px;
+    width: 200px;
+    margin-left: 60px;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-top: 15px;
+    color: darkturquoise;
+}
+
+.access {
+    font-size: 17px;
+    color: green;
+    margin-left: 70px;
+}
+
+.invalid {
+    font-size: 17px;
+    color: red;
+    margin-left: 57px;
+}
+
+h3 {
+    font-size: 17px;
+    color: green;
+    margin-left: 57px;
+}
